@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CriWareCoreEditorSettings.cpp.obj": [
+			"CriWareCoreEditorAtomSettings.gen.cpp.obj",
+			"CriWareCoreEditorSettings.init.gen.cpp.obj",
+			"CriWareCoreEditorAtomSettings.cpp.obj",
+			"CriWareCoreEditorSettingsModule.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CriWareWindows.cpp.obj": [
+			"AtomRuntimeWindows.cpp.obj",
+			"AtomWasapi.cpp.obj",
+			"CriWareAtomWindows.cpp.obj",
+			"CriWareWindows.cpp.obj"
+		]
+	}
+}

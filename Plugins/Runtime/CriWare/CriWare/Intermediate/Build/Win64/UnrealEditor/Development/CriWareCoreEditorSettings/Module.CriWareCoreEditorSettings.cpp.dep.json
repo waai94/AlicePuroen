@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\development\\criwarecoreeditorsettings\\module.criwarecoreeditorsettings.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\admin\\documents\\alicepuroen\\intermediate\\build\\win64\\aliceditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\development\\criwarecoreeditorsettings\\definitions.criwarecoreeditorsettings.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwarecoreeditorsettings\\uht\\criwarecoreeditoratomsettings.gen.cpp",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\source\\criwarecoreeditorsettings\\public\\criwarecoreeditoratomsettings.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwarecoreeditorsettings\\uht\\criwarecoreeditoratomsettings.generated.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwarecoreeditorsettings\\uht\\criwarecoreeditorsettings.init.gen.cpp",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\source\\criwarecoreeditorsettings\\private\\criwarecoreeditoratomsettings.cpp",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\source\\criwarecoreeditorsettings\\private\\criwarecoreeditorsettingsmodule.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
