@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CriWareCoreEditorSettings.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\admin\Documents\AlicePuroen\Intermediate\Build\Win64\alicEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"C:\Users\admin\Documents\AlicePuroen\Plugins\Runtime\CriWare\CriWare\Intermediate\Build\Win64\UnrealEditor\Development\CriWareCoreEditorSettings\Module.CriWareCoreEditorSettings.cpp.obj"
+"C:\Users\admin\Documents\AlicePuroen\Plugins\Runtime\CriWare\CriWare\Intermediate\Build\Win64\UnrealEditor\Development\CriWareCoreEditorSettings\Default.rc2.res"
+/OUT:"C:\Users\admin\Documents\AlicePuroen\Plugins\Runtime\CriWare\CriWare\Intermediate\Build\Win64\UnrealEditor\Development\CriWareCoreEditorSettings\UnrealEditor-CriWareCoreEditorSettings.lib"

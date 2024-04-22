@@ -1,0 +1,240 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+// IWYU pragma: private, include "Atom/Gameplay/AtomGameplayVolumeProxy.h"
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef CRIWARECORE_AtomGameplayVolumeProxy_generated_h
+#error "AtomGameplayVolumeProxy.generated.h already included, missing '#pragma once' in AtomGameplayVolumeProxy.h"
+#endif
+#define CRIWARECORE_AtomGameplayVolumeProxy_generated_h
+
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_26_SPARSE_DATA
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_26_RPC_WRAPPERS
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_26_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_26_ACCESSORS
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_26_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUAtomGameplayVolumeProxy(); \
+	friend struct Z_Construct_UClass_UAtomGameplayVolumeProxy_Statics; \
+public: \
+	DECLARE_CLASS(UAtomGameplayVolumeProxy, UObject, COMPILED_IN_FLAGS(CLASS_Abstract), CASTCLASS_None, TEXT("/Script/CriWareCore"), NO_API) \
+	DECLARE_SERIALIZER(UAtomGameplayVolumeProxy)
+
+
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_26_INCLASS \
+private: \
+	static void StaticRegisterNativesUAtomGameplayVolumeProxy(); \
+	friend struct Z_Construct_UClass_UAtomGameplayVolumeProxy_Statics; \
+public: \
+	DECLARE_CLASS(UAtomGameplayVolumeProxy, UObject, COMPILED_IN_FLAGS(CLASS_Abstract), CASTCLASS_None, TEXT("/Script/CriWareCore"), NO_API) \
+	DECLARE_SERIALIZER(UAtomGameplayVolumeProxy)
+
+
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_26_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UAtomGameplayVolumeProxy(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_ABSTRACT_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAtomGameplayVolumeProxy) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UAtomGameplayVolumeProxy); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UAtomGameplayVolumeProxy); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UAtomGameplayVolumeProxy(UAtomGameplayVolumeProxy&&); \
+	NO_API UAtomGameplayVolumeProxy(const UAtomGameplayVolumeProxy&); \
+public:
+
+
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_26_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UAtomGameplayVolumeProxy(UAtomGameplayVolumeProxy&&); \
+	NO_API UAtomGameplayVolumeProxy(const UAtomGameplayVolumeProxy&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UAtomGameplayVolumeProxy); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UAtomGameplayVolumeProxy); \
+	DEFINE_ABSTRACT_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAtomGameplayVolumeProxy)
+
+
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_22_PROLOG
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_26_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_26_SPARSE_DATA \
+	FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_26_RPC_WRAPPERS \
+	FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_26_ACCESSORS \
+	FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_26_INCLASS \
+	FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_26_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_26_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_26_SPARSE_DATA \
+	FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_26_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_26_ACCESSORS \
+	FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_26_INCLASS_NO_PURE_DECLS \
+	FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_26_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> CRIWARECORE_API UClass* StaticClass<class UAtomGameplayVolumeProxy>();
+
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_64_SPARSE_DATA
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_64_RPC_WRAPPERS
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_64_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_64_ACCESSORS
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_64_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUAtomGameplayVolumePrimitiveComponentProxy(); \
+	friend struct Z_Construct_UClass_UAtomGameplayVolumePrimitiveComponentProxy_Statics; \
+public: \
+	DECLARE_CLASS(UAtomGameplayVolumePrimitiveComponentProxy, UAtomGameplayVolumeProxy, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/CriWareCore"), NO_API) \
+	DECLARE_SERIALIZER(UAtomGameplayVolumePrimitiveComponentProxy)
+
+
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_64_INCLASS \
+private: \
+	static void StaticRegisterNativesUAtomGameplayVolumePrimitiveComponentProxy(); \
+	friend struct Z_Construct_UClass_UAtomGameplayVolumePrimitiveComponentProxy_Statics; \
+public: \
+	DECLARE_CLASS(UAtomGameplayVolumePrimitiveComponentProxy, UAtomGameplayVolumeProxy, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/CriWareCore"), NO_API) \
+	DECLARE_SERIALIZER(UAtomGameplayVolumePrimitiveComponentProxy)
+
+
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_64_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UAtomGameplayVolumePrimitiveComponentProxy(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAtomGameplayVolumePrimitiveComponentProxy) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UAtomGameplayVolumePrimitiveComponentProxy); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UAtomGameplayVolumePrimitiveComponentProxy); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UAtomGameplayVolumePrimitiveComponentProxy(UAtomGameplayVolumePrimitiveComponentProxy&&); \
+	NO_API UAtomGameplayVolumePrimitiveComponentProxy(const UAtomGameplayVolumePrimitiveComponentProxy&); \
+public:
+
+
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_64_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UAtomGameplayVolumePrimitiveComponentProxy(UAtomGameplayVolumePrimitiveComponentProxy&&); \
+	NO_API UAtomGameplayVolumePrimitiveComponentProxy(const UAtomGameplayVolumePrimitiveComponentProxy&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UAtomGameplayVolumePrimitiveComponentProxy); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UAtomGameplayVolumePrimitiveComponentProxy); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAtomGameplayVolumePrimitiveComponentProxy)
+
+
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_60_PROLOG
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_64_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_64_SPARSE_DATA \
+	FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_64_RPC_WRAPPERS \
+	FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_64_ACCESSORS \
+	FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_64_INCLASS \
+	FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_64_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_64_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_64_SPARSE_DATA \
+	FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_64_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_64_ACCESSORS \
+	FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_64_INCLASS_NO_PURE_DECLS \
+	FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_64_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> CRIWARECORE_API UClass* StaticClass<class UAtomGameplayVolumePrimitiveComponentProxy>();
+
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_88_SPARSE_DATA
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_88_RPC_WRAPPERS
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_88_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_88_ACCESSORS
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_88_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUAtomGameplayVolumeConditionProxy(); \
+	friend struct Z_Construct_UClass_UAtomGameplayVolumeConditionProxy_Statics; \
+public: \
+	DECLARE_CLASS(UAtomGameplayVolumeConditionProxy, UAtomGameplayVolumeProxy, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/CriWareCore"), NO_API) \
+	DECLARE_SERIALIZER(UAtomGameplayVolumeConditionProxy)
+
+
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_88_INCLASS \
+private: \
+	static void StaticRegisterNativesUAtomGameplayVolumeConditionProxy(); \
+	friend struct Z_Construct_UClass_UAtomGameplayVolumeConditionProxy_Statics; \
+public: \
+	DECLARE_CLASS(UAtomGameplayVolumeConditionProxy, UAtomGameplayVolumeProxy, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/CriWareCore"), NO_API) \
+	DECLARE_SERIALIZER(UAtomGameplayVolumeConditionProxy)
+
+
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_88_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UAtomGameplayVolumeConditionProxy(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAtomGameplayVolumeConditionProxy) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UAtomGameplayVolumeConditionProxy); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UAtomGameplayVolumeConditionProxy); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UAtomGameplayVolumeConditionProxy(UAtomGameplayVolumeConditionProxy&&); \
+	NO_API UAtomGameplayVolumeConditionProxy(const UAtomGameplayVolumeConditionProxy&); \
+public:
+
+
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_88_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UAtomGameplayVolumeConditionProxy(UAtomGameplayVolumeConditionProxy&&); \
+	NO_API UAtomGameplayVolumeConditionProxy(const UAtomGameplayVolumeConditionProxy&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UAtomGameplayVolumeConditionProxy); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UAtomGameplayVolumeConditionProxy); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UAtomGameplayVolumeConditionProxy)
+
+
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_84_PROLOG
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_88_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_88_SPARSE_DATA \
+	FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_88_RPC_WRAPPERS \
+	FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_88_ACCESSORS \
+	FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_88_INCLASS \
+	FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_88_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_88_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_88_SPARSE_DATA \
+	FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_88_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_88_ACCESSORS \
+	FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_88_INCLASS_NO_PURE_DECLS \
+	FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h_88_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> CRIWARECORE_API UClass* StaticClass<class UAtomGameplayVolumeConditionProxy>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_AlicePuroen_Plugins_Runtime_CriWare_CriWare_Source_CriWareCore_Public_Atom_Gameplay_AtomGameplayVolumeProxy_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

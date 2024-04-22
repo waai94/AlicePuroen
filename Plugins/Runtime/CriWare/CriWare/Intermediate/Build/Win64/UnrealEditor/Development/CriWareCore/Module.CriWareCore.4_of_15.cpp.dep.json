@@ -1,0 +1,32 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\development\\criwarecore\\module.criwarecore.4_of_15.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\admin\\documents\\alicepuroen\\intermediate\\build\\win64\\aliceditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\development\\criwarecore\\definitions.criwarecore.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwarecore\\uht\\atombuseffectdelay.gen.cpp",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\source\\criwarecore\\public\\atom\\effects\\atombuseffectdelay.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\source\\criwarecore\\public\\atom\\atombuseffectpreset.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\source\\criwarecore\\public\\atom\\atomeffectpreset.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwarecore\\uht\\atomeffectpreset.generated.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwarecore\\uht\\atombuseffectpreset.generated.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwarecore\\uht\\atombuseffectdelay.generated.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwarecore\\uht\\atombuseffectdistortion.gen.cpp",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\source\\criwarecore\\public\\atom\\effects\\atombuseffectdistortion.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwarecore\\uht\\atombuseffectdistortion.generated.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwarecore\\uht\\atombuseffectecho.gen.cpp",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\source\\criwarecore\\public\\atom\\effects\\atombuseffectecho.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwarecore\\uht\\atombuseffectecho.generated.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwarecore\\uht\\atombuseffectflanger.gen.cpp",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\source\\criwarecore\\public\\atom\\effects\\atombuseffectflanger.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwarecore\\uht\\atombuseffectflanger.generated.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwarecore\\uht\\atombuseffecti3dl2reverb.gen.cpp",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\source\\criwarecore\\public\\atom\\effects\\atombuseffecti3dl2reverb.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwarecore\\uht\\atombuseffecti3dl2reverb.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CriWareAppleSettings.cpp.obj": [
+			"CriWareAppleSettings.gen.cpp.obj",
+			"CriWareAppleSettings.init.gen.cpp.obj",
+			"CriWareIOSSettings.gen.cpp.obj",
+			"CriWareMacSettings.gen.cpp.obj",
+			"CriWareAppleSettings.cpp.obj",
+			"CriWareAppleSettingsModule.cpp.obj",
+			"CriWareIOSSettings.cpp.obj",
+			"CriWareMacSettings.cpp.obj"
+		]
+	}
+}

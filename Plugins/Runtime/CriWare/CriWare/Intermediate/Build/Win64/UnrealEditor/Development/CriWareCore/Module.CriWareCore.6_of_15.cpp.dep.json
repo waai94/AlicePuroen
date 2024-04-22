@@ -1,0 +1,36 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\development\\criwarecore\\module.criwarecore.6_of_15.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\admin\\documents\\alicepuroen\\intermediate\\build\\win64\\aliceditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\development\\criwarecore\\definitions.criwarecore.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwarecore\\uht\\atombuseffectmultitapdelay.gen.cpp",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\source\\criwarecore\\public\\atom\\effects\\atombuseffectmultitapdelay.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\source\\criwarecore\\public\\atom\\atombuseffectpreset.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\source\\criwarecore\\public\\atom\\atomeffectpreset.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwarecore\\uht\\atomeffectpreset.generated.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwarecore\\uht\\atombuseffectpreset.generated.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwarecore\\uht\\atombuseffectmultitapdelay.generated.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwarecore\\uht\\atombuseffectphaser.gen.cpp",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\source\\criwarecore\\public\\atom\\effects\\atombuseffectphaser.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwarecore\\uht\\atombuseffectphaser.generated.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwarecore\\uht\\atombuseffectpitchshifter.gen.cpp",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\source\\criwarecore\\public\\atom\\effects\\atombuseffectpitchshifter.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwarecore\\uht\\atombuseffectpitchshifter.generated.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwarecore\\uht\\atombuseffectpreset.gen.cpp",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwarecore\\uht\\atombuseffectreverb.gen.cpp",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\source\\criwarecore\\public\\atom\\effects\\atombuseffectreverb.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwarecore\\uht\\atombuseffectreverb.generated.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwarecore\\uht\\atombuseffectsurrounderwitheq.gen.cpp",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\source\\criwarecore\\public\\atom\\effects\\atombuseffectsurrounderwitheq.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\source\\criwarecore\\public\\atom\\effects\\atombuseffectmultibandeq.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\source\\criwarecore\\public\\criwaredefines.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwarecore\\uht\\atombuseffectmultibandeq.generated.h",
+            "c:\\users\\admin\\documents\\alicepuroen\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwarecore\\uht\\atombuseffectsurrounderwitheq.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

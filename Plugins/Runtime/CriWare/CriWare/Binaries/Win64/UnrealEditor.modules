@@ -1,0 +1,14 @@
+{
+	"BuildId": "23058290",
+	"Modules": 
+	{
+		"CriWareAndroidSettings": "UnrealEditor-CriWareAndroidSettings.dll",
+		"CriWareAppleSettings": "UnrealEditor-CriWareAppleSettings.dll",
+		"CriWareCore": "UnrealEditor-CriWareCore.dll",
+		"CriWareCoreEditor": "UnrealEditor-CriWareCoreEditor.dll",
+		"CriWareCoreEditorSettings": "UnrealEditor-CriWareCoreEditorSettings.dll",
+		"CriWareWindows": "UnrealEditor-CriWareWindows.dll",
+		"CriWareWindowsEditor": "UnrealEditor-CriWareWindowsEditor.dll",
+		"CriWareWindowsSettings": "UnrealEditor-CriWareWindowsSettings.dll"
+	}
+}
