@@ -71,6 +71,7 @@ Intermediate/*
 
 Content/kenkyu/*
 Plugins/*/Intermediate/*
+Plugins/Runtime/CriWare/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
