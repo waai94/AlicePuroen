@@ -1,9 +1,0 @@
-{
-	"RemapUnityFiles": 
-	{
-		"Module.CriWareWindowsEditor.cpp.obj": [
-			"CriWareWindowsEditorModule.cpp.obj",
-			"CriWareWindowsSettingsDetails.cpp.obj"
-		]
-	}
-}
